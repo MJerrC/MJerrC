@@ -32,10 +32,11 @@ I am a Data analyst and Data engineer from Poland. I work on relational database
 | 75314     | Prom szturmowy Parszywej Zgrai        | 1         | 185       | 800             |
 | 75283     | Czołg opancerzony AAT                 | 1         | 172       | 450             |
 | 75280     | Żołnierze klony z 501 legionu         | 4         | 100       | 250             |
+| 75290     | Kantyna Mos Eisley                    | 1         | 1394      | 2800            |
 |           |                                       |           |           |                 |
-| SUMMARY   |                                       |           |**2257,60**|   **5820**      |   
+| SUMMARY   |                                       |           |**3651,60**|   **7226**      |   
 
-### P&L 3562,40 = 158% return on investment
+### P&L 3574,40
 
 
 
